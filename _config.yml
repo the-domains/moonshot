@@ -1,0 +1,28 @@
+name: Moonshot
+favicon: null
+layout_spectrum: 0.41156485793180764
+typography_spectrum: 0.5795320393517613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.017649218440055847
+  lightness: 0.19350178982131183
+  saturation: 0.7504280945286155
+  rhythmicContrast: 0.2564815725199878
+purpose: []
